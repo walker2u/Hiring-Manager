@@ -1,0 +1,6 @@
+node_modules/
+.env
+attachments/
+*.log
+storage/*.json # If using file storage and don't want to commit state/token
+index.js
