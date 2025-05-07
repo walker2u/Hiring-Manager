@@ -59,27 +59,13 @@ This full-stack application orchestrates several Google services and AI to strea
 *   **Secure API Integration:** Handled OAuth 2.0 for secure access to user data on Google services.
 *   **Full-Stack Implementation:** Developed both the backend logic and a functional frontend dashboard.
 
-*(Optional: Add a GIF or a couple of screenshots here if you have them)*
-<!-- ![App Screenshot/GIF](link_to_your_screenshot_or_gif.gif) -->
-
 ## Project Goals & Vision
 
 The primary goal is to significantly reduce manual effort in the early stages of recruitment, allowing hiring teams to focus their energy on engaging with the most promising candidates. This project serves as a robust demonstration of how AI and cloud services can be combined to solve real-world business inefficiencies.
 
 Future enhancements could include more dynamic criteria management, deeper resume parsing, and integration with Applicant Tracking Systems (ATS).
 
-## Source Code
-
-The complete source code for this project is available on GitHub:
-🔗 **[Link to your GitHub Repository]**
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-*(Ensure you have a LICENSE file in your repo)*
-
 ---
+(took help to refatore this from the same model, hehe -- peace).
 
 Built by **Mayank Kumar Prasad**.
-([Link to your LinkedIn Profile - Optional])
-([Link to your Portfolio - Optional])
